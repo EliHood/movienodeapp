@@ -35,4 +35,8 @@ app.get('*',routes.notfound);
 
 //for heroku
 
-app.listen(process.env.PORT || 3000);
+var port = process.env.PORT || 8080;
+
+app.listen(port, function() {
+    console.log('Our app is running on http://localhost:' + port);
+});
