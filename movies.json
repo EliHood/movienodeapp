@@ -1,0 +1,57 @@
+
+{
+  "movies": [{
+    "title" : "Game Of Thrones: All Men Must Die",
+    "episode_number" : "1",
+    "main_characters" : ["Qui-Gon Jinn", "Obi-Wan Kenobi", "Anakin Skywalker", "Padmé Amidala", "Jar Jar Binks", "Darth Maul"],
+    "description" : "Polaroid biodiesel cardigan cliche, flannel gentrify heirloom shoreditch sartorial. Photo booth post-ironic retro drinking vinegar. Cray pork belly tofu cliche four loko, you probably haven't heard of them locavore vegan butcher mumblecore 8-bit tacos microdosing brooklyn bushwick. ",
+    "poster" : "gameofthrones2.jpg",
+    "hero_image" : "gameofthrones2.jpg"
+  },
+
+  {
+    "title" : "Game Of Thrones: The Clash Of Kings Has Begun",
+    "episode_number" : "2",
+    "main_characters" : ["Obi-Wan Kenobi", "Anakin Skywalker", "Count Dooku", "Padmé Amidala", "Mace Windu", "Yoda", "Jango Fett", "Supreme Chancellor Palpatine"],
+    "description" : "Ethical hoodie paleo chia, craft beer franzen beard cliche microdosing XOXO bitters meggings. Whatever meh authentic, umami humblebrag single-origin coffee art party pinterest +1. 90's narwhal artisan, ennui knausgaard ramps wolf. Cronut seitan pickled, green juice forage tilde helvetica taxidermy jean shorts pinterest. ",
+    "poster" : "gameofthrones3.jpg",
+    "hero_image" : "gameofthrones3.jpg"
+  },
+
+  {
+    "title" : "Game Of Thrones: April 2012",
+    "episode_number" : "3",
+    "main_characters" : ["Obi-Wan Kenobi", "Anakin Skywalker", "Count Dooku", "Padmé Amidala", "Mace Windu", "Yoda", "C-3PO", "Supreme Chancellor Palpatine"],
+    "description" : "Meh mumblecore plaid artisan roof party next level truffaut, paleo authentic tattooed kale chips single-origin coffee bespoke DIY health goth. Bushwick disrupt authentic pitchfork brooklyn 3 wolf moon. ",
+    "poster" : "gameofthrones7.jpg",
+    "hero_image" : "gameofthrones7.jpg"
+  },
+
+  {
+    "title" : "Game Of Thrones: April 1",
+    "episode_number" : "4",
+    "main_characters" : ["Luke Skywalker", "Han Solo", "Princess Leia Organa", "Ben Kenobi", "Darth Vader", "C-3P0", "R2-D2", "Chewbacca"],
+    "description" : "Gentrify artisan vegan, umami sartorial poutine tousled. YOLO fanny pack bitters cornhole cliche, try-hard master cleanse PBR&B pinterest fingerstache kombucha aesthetic XOXO put a bird on it. ",
+    "poster" : "gameofthrones5.jpg",
+    "hero_image" : "gameofthrones5.jpg"
+  },
+
+  {
+    "title" : "Game Of Thrones: The Lion and The Rose",
+    "episode_number" : "5",
+    "main_characters" : ["Luke Skywalker", "Han Solo", "Princess Leia Organa", "Darth Vader", "C-3P0", "R2-D2", "Chewbacca", "Lando Calrissian", "Boba Fett"],
+    "description" : "Pug narwhal artisan whatever. Tattooed health goth raw denim viral. Schlitz mlkshk gluten-free twee, beard kinfolk distillery tattooed skateboard. Mixtape flannel migas, intelligentsia vice XOXO +1 readymade seitan skateboard waistcoat.",
+    "poster" : "gameofthrones6.jpg",
+    "hero_image" : "gameofthrones6.jpg"
+  },
+
+  {
+    "title" : "Game Of Thrones: 2 Days Left",
+    "episode_number" : "6",
+    "main_characters" : ["Luke Skywalker", "Han Solo", "Princess Leia Organa", "Darth Vader", "C-3P0", "Chewbacca", "The Emperor", "Boba Fett"],
+    "description" : "Cronut photo booth ennui, selfies pop-up fingerstache twee heirloom. Franzen distillery dreamcatcher, jean shorts photo booth occupy VHS church-key gluten-free brunch master cleanse humblebrag banh mi swag.",
+    "poster" : "gameofthrones8.jpg",
+    "hero_image" : "gameofthrones8.jpg"
+  }]
+
+}
