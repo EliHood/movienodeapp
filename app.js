@@ -27,6 +27,12 @@ app.get('*',routes.notfound);
 
 
 
-var port= Number(process.env.PORT || 3000);
+
+// app.listen(3000, function(){
+//   console.log("The application is running on 3000")
+//
+// });
 
 //for heroku
+
+app.listen(process.env.PORT || 3000);
